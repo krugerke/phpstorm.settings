@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="crap" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
