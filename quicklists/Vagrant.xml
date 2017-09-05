@@ -1,0 +1,11 @@
+<list display="Vagrant" description="Vagrant">
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantUpAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantReloadAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantProvisionAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantSuspendAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantResumeAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantHaltAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantDestroyAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantShareAction" />
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantInitInProjectAction" />
+</list>
