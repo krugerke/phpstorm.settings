@@ -3,8 +3,8 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="https://192.168.99.100:2376" />
-        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
-        <option name="machine" value="default" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/mission-control" />
+        <option name="machine" value="mission-control" />
       </configuration>
     </remote-server>
   </component>
