@@ -5,6 +5,9 @@
         <option name="apiUrl" value="https://192.168.33.2:2376" />
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/dev.lims.current" />
         <option name="machine" value="dev.lims.current" />
+        <option name="pathMappings">
+          <list />
+        </option>
       </configuration>
     </remote-server>
   </component>
