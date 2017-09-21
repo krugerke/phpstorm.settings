@@ -1,10 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="meta-data" type="PLAIN_TEXT" />
       <mapping pattern="crap" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="user-data" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
