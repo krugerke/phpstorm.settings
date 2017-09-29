@@ -7,9 +7,6 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant:///Users/kkruger/Development/projects/dev.home/usr/bin/php" id="4d4af77d-a8a0-4e02-a7ab-195385378090" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Development/projects/dev.home" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
       <interpreter home="/usr/bin/php" id="2ac2592b-8d5a-452a-8f4f-8834c9b3e81e" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
@@ -303,10 +300,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="4d4af77d-a8a0-4e02-a7ab-195385378090" load_method="PHPUNIT_PHAR" custom_loader_path="" phpunit_phar_path="/home/vagrant/bin/phpunit" />
-    </phpunit_settings>
   </component>
 </application>
