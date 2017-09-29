@@ -8,7 +8,6 @@
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="user-data" type="PLAIN_TEXT" />
       <mapping pattern="meta-data" type="PLAIN_TEXT" />
-      <mapping ext="tree" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
