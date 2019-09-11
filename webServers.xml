@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="a3ac148b-b919-4646-b25d-7ae30f93e639" name="dev.local" url="http://dev.local">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
