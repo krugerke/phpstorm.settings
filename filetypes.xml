@@ -1,14 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="crap" type="PLAIN_TEXT" />
-      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping pattern="meta-data" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="user-data" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>

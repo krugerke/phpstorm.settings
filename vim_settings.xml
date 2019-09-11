@@ -1,29 +1,19 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Development/projects/dev.local/vagrant/docker/install.sh" timestamp="1504605277725">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/projects/dev.local/vagrant/install.sh" timestamp="1504605803915">
-        <mark key="^" line="5" column="16" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history />
-    <shortcut-conflicts />
+    <state version="5" enabled="false" />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>

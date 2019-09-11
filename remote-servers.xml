@@ -2,12 +2,8 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="https://192.168.33.2:2376" />
-        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/dev.lims.current" />
-        <option name="machine" value="dev.lims.current" />
-        <option name="pathMappings">
-          <list />
-        </option>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
       </configuration>
     </remote-server>
   </component>

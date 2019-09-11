@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
+  <action id="generateTestMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt u" second-keystroke="u" />
+  </action>
+</keymap>
