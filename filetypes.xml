@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="phing" type="PHP" />
       <mapping pattern="boot" type="PHP" />
     </extensionMap>
   </component>
