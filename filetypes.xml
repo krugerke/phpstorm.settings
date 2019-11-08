@@ -7,6 +7,7 @@
       <mapping pattern="main" type="PHP" />
       <mapping pattern="boot" type="PHP" />
       <mapping pattern="kernel" type="PHP" />
+      <mapping pattern="init" type="PHP" />
       <mapping pattern="initramfs" type="PHP" />
     </extensionMap>
   </component>
