@@ -10,6 +10,8 @@
       <mapping pattern="kernel" type="PHP" />
       <mapping pattern="init" type="PHP" />
       <mapping pattern="initramfs" type="PHP" />
+      <mapping pattern="continuity" type="Shell Script" />
+      <mapping pattern="phar" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
