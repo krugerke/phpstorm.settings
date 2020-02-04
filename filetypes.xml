@@ -1,15 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="dist" type="JSON" />
       <mapping pattern="phing" type="PHP" />
-      <mapping pattern="main" type="PHP" />
-      <mapping pattern="boot" type="PHP" />
       <mapping pattern="kernel" type="PHP" />
-      <mapping pattern="init" type="PHP" />
       <mapping pattern="initramfs" type="PHP" />
+      <mapping pattern="init" type="PHP" />
+      <mapping pattern="boot" type="PHP" />
+      <mapping pattern="main" type="PHP" />
       <mapping pattern="continuity" type="Shell Script" />
       <mapping pattern="phar" type="Shell Script" />
     </extensionMap>
