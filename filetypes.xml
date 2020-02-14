@@ -10,6 +10,7 @@
       <mapping pattern="kernel" type="PHP" />
       <mapping pattern="continuity" type="Shell Script" />
       <mapping pattern="phar" type="Shell Script" />
+      <mapping ext="cnf" type="Shell Script" />
       <mapping ext="ini" type="Shell Script" />
     </extensionMap>
   </component>
