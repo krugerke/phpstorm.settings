@@ -13,6 +13,7 @@
       <mapping pattern="phar" type="Shell Script" />
       <mapping ext="cnf" type="Shell Script" />
       <mapping ext="ini" type="Shell Script" />
+      <mapping ext="yml-traefik" type="YAML" />
     </extensionMap>
   </component>
 </application>
