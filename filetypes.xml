@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ini" type="Ini" />
       <mapping ext="dist" type="JSON" />
       <mapping pattern="logstash.conf" type="Logstash" />
       <mapping pattern="phing" type="PHP" />
@@ -14,9 +13,7 @@
       <mapping pattern="continuity" type="Shell Script" />
       <mapping pattern="phar" type="Shell Script" />
       <mapping ext="cnf" type="Shell Script" />
-      <mapping ext="ini" type="Shell Script" />
       <removed_mapping pattern=".conf" approved="true" type="Logstash" />
-      <removed_mapping ext="ini" type="Ini" />
       <removed_mapping ext="conf" approved="true" type="Logstash" />
     </extensionMap>
   </component>
