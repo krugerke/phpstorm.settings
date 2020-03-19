@@ -1,6 +1,6 @@
 <application>
   <component name="RipsTechGlobalSettings">
-    <option name="apiVersion" value="3.4.12" />
+    <option name="apiVersion" value="3.4.13" />
     <option name="oauthToken" value="" />
   </component>
 </application>
