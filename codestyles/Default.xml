@@ -1,10 +1,1 @@
-<code_scheme name="Default" version="173">
-  <MySQLCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="0" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
-    <option name="QUOTED_IDENTIFIER_CASE" value="0" />
-    <option name="QUOTE_IDENTIFIER" value="0" />
-  </MySQLCodeStyleSettings>
-</code_scheme>
+<code_scheme name="Default" version="173" />
