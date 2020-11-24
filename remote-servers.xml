@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker-Machine" type="docker">
+    <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
         <option name="certificatesPath" />
