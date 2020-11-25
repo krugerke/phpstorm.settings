@@ -1,8 +1,8 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="docker-engine" type="docker">
       <configuration>
-        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
