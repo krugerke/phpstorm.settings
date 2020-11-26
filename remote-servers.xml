@@ -1,9 +1,17 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="docker-engine" type="docker">
+    <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
         <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="C:\Users\krugerk\Development\vm\docker\compose\devilbox\data\www" />
+              <option name="virtualMachinePath" value="/shared/httpd" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
