@@ -120,7 +120,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="4c9e8cc2-68d5-40c0-82a5-09b7f1028e21" custom_loader_path="C:/Users/krugerk/Development/vm/docker/compose/devilbox/data/www/crap/htdocs/vendor/autoload.php" />
+      <phpunit_by_interpreter interpreter_id="4c9e8cc2-68d5-40c0-82a5-09b7f1028e21" load_method="PHPUNIT_PHAR" custom_loader_path="C:/Users/krugerk/Development/vm/docker/compose/devilbox/data/www/crap/htdocs/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>
