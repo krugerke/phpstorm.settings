@@ -7,7 +7,7 @@
         <option name="pathMappings">
           <list>
             <DockerPathMappingImpl>
-              <option name="localPath" value="&lt;Project root&gt;\data\www" />
+              <option name="localPath" value="C:\Users\krugerk\Development\vm\docker\compose\devilbox\data\www" />
               <option name="virtualMachinePath" value="/shared/httpd" />
             </DockerPathMappingImpl>
           </list>
