@@ -67,9 +67,14 @@
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle">
+    <driver id="oracle" driver-class="oracle.jdbc.driver.OracleDriver">
+      <artifact id="Oracle" name="Oracle" channel="fixed" rolling="false" use="true" version="12.2.0.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="postgresql">
       <option name="auto-sync" value="true" />
