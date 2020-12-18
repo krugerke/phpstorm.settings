@@ -1,6 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="$USER_HOME$/Development/projects/devilbox/shell.sh" />
     <option name="myTabName" value="Terminal" />
   </component>
 </application>
