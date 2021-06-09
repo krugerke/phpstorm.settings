@@ -120,7 +120,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="89d51489-e4dc-432a-8c3c-30eb64334fa4" custom_loader_path="/opt/project/vendor/autoload.php" />
+      <phpunit_by_interpreter interpreter_id="89d51489-e4dc-432a-8c3c-30eb64334fa4" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>
