@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="cmd" approved="true" type="Batch" />
+      <mapping ext="bat" type="Batch" />
+      <mapping ext="cmd" type="Batch" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
     </extensionMap>
   </component>
 </application>
