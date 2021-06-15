@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="domain" type="AUTO_DETECTED" />
       <mapping ext="bat" type="Batch" />
       <mapping ext="cmd" type="Batch" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
