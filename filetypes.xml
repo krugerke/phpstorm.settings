@@ -4,6 +4,7 @@
       <mapping pattern="domain" type="AUTO_DETECTED" />
       <mapping ext="bat" type="Batch" />
       <mapping ext="cmd" type="Batch" />
+      <mapping pattern="boot" type="PHP" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
     </extensionMap>
