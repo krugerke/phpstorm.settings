@@ -2,16 +2,14 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="domain" type="AUTO_DETECTED" />
-      <mapping ext="bat" type="Batch" />
-      <mapping ext="cmd" type="Batch" />
       <mapping pattern="boot" type="PHP" />
       <mapping pattern="trait.method" type="PHP" />
       <mapping ext="class" type="PHP" />
       <mapping ext="map" type="PHP" />
       <mapping ext="identity" type="PHP" />
       <mapping ext="trait" type="PHP" />
-      <removed_mapping ext="bat" approved="true" type="Bat" />
-      <removed_mapping ext="cmd" approved="true" type="Cmd" />
+      <removed_mapping ext="bat" approved="true" type="Batch" />
+      <removed_mapping ext="cmd" approved="true" type="Batch" />
     </extensionMap>
   </component>
 </application>
