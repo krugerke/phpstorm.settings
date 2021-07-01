@@ -3,9 +3,6 @@
     <interpreters>
       <interpreter id="3d9162bd-296a-414c-9b03-85092704cf0d" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="463ac4b4-7904-43f6-8c7d-1c1a39d6d9fe" name="php" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
-        <configuration_options>
-          <configuration_option name="xdebug.remote_host" value="172.16.238.2" />
-        </configuration_options>
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="php" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
           <type_data command="EXEC" />
           <dockerComposeConfigurationPaths>
