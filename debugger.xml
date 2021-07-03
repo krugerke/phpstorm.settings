@@ -1,12 +1,14 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <show-values-inline>false</show-values-inline>
+      <sort-values>true</sort-values>
     </data-views>
-    <general />
+    <general>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration watchReturnValues="true">
           <custom-object-presentation />
         </configuration>
       </debugger>
