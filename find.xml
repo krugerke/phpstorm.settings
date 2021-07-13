@@ -1,14 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../logstash/data/path_hierarchy.json'" />
-    <option name="defaultScopeName" value="File '.../logstash/data/path_hierarchy.json'" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'Development'" />
+    <option name="defaultScopeName" value="Project 'Development'" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../logstash/data/path_hierarchy.json'" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'Development'" />
   </component>
 </application>
