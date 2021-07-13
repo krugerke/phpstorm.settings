@@ -1,14 +1,14 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="esuite-y1-DB01.lumosnet.com" id="815b5dbf-4ca1-43e5-b234-cb31993e7bba" localPort="1521" port="22" customName="ESUITE-Y1-DB01" nameFormat="CUSTOM" username="krugerk">
-        <option name="customName" value="ESUITE-Y1-DB01" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="esuite-g1-DB01.lumosnet.com" id="5c72dd64-1849-4ef4-a17d-24e60cbe093b" localPort="1521" port="22" customName="ESUITE-G1-DB01" nameFormat="CUSTOM" username="krugerk">
         <option name="customName" value="ESUITE-G1-DB01" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="esuite-R1-DB01.lumosnet.com" id="a61eb75b-50ff-4f25-8fb3-e643029ae1c7" localPort="1521" port="22" customName="ESUITE-R1-DB01" nameFormat="CUSTOM" username="krugerk">
         <option name="customName" value="ESUITE-R1-DB01" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="esuite-y1-DB01.lumosnet.com" id="815b5dbf-4ca1-43e5-b234-cb31993e7bba" localPort="1521" port="22" customName="ESUITE-Y1-DB01" nameFormat="CUSTOM" username="krugerk">
+        <option name="customName" value="ESUITE-Y1-DB01" />
       </sshConfig>
     </configs>
   </component>
