@@ -3,13 +3,13 @@
     <extensionMap>
       <mapping pattern="note" type="AUTO_DETECTED" />
       <mapping pattern="domain" type="AUTO_DETECTED" />
-      <mapping pattern="test" type="PHP" />
-      <mapping pattern="composer" type="PHP" />
       <mapping pattern="main" type="PHP" />
       <mapping pattern="boot" type="PHP" />
-      <mapping pattern="phing" type="PHP" />
-      <mapping pattern="trait.method" type="PHP" />
+      <mapping pattern="test" type="PHP" />
+      <mapping pattern="composer" type="PHP" />
       <mapping pattern="kernel" type="PHP" />
+      <mapping pattern="trait.method" type="PHP" />
+      <mapping pattern="phing" type="PHP" />
       <mapping ext="class" type="PHP" />
       <mapping ext="map" type="PHP" />
       <mapping ext="identity" type="PHP" />
