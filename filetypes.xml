@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="note" type="AUTO_DETECTED" />
       <mapping pattern="options" type="AUTO_DETECTED" />
       <mapping pattern="domain" type="AUTO_DETECTED" />
+      <mapping pattern="note" type="AUTO_DETECTED" />
+      <mapping pattern="Buildfile" type="Dockerfile" />
       <mapping pattern="main" type="PHP" />
-      <mapping pattern="boot" type="PHP" />
       <mapping pattern="test" type="PHP" />
-      <mapping pattern="composer" type="PHP" />
-      <mapping pattern="kernel" type="PHP" />
       <mapping pattern="trait.method" type="PHP" />
       <mapping pattern="phing" type="PHP" />
+      <mapping pattern="boot" type="PHP" />
+      <mapping pattern="composer" type="PHP" />
+      <mapping pattern="kernel" type="PHP" />
       <mapping pattern="socket" type="PHP" />
       <mapping ext="class" type="PHP" />
       <mapping ext="map" type="PHP" />
