@@ -8,7 +8,7 @@
           <list>
             <DockerPathMappingImpl>
               <option name="localPath" value="$USER_HOME$/Development" />
-              <option name="virtualMachinePath" value="/usr/http" />
+              <option name="virtualMachinePath" value="/home/kkruger" />
             </DockerPathMappingImpl>
           </list>
         </option>
