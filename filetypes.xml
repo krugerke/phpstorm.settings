@@ -22,6 +22,7 @@
       <mapping ext="identity" type="PHP" />
       <mapping ext="trait" type="PHP" />
       <mapping pattern="run" type="Shell Script" />
+      <mapping pattern="configure" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
     </extensionMap>
