@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="221fbd0e-7488-4060-8d3e-09a5b9f97f9d" name="PHP" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="fab5e8ad-5b1b-4d69-8fc8-17efcf58a7b5" name="PHP" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -25,7 +25,6 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="ctype" />
             <extension name="date" />
             <extension name="dom" />
